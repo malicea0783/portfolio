@@ -1,22 +1,19 @@
-* {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: black;
-}
 
-html {
-    background-color: cadetblue;
-}
-
-body {
-    margin: 0;
-}
 
 header {
-    text-align: center;
-    background-color: darkcyan;
+    border: 10px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 3rem;
 }
 
-/* classes */
-.pos-f {position: fixed;}
-.t-0   {top: 0;}
-.w-1   {width: 100;}
+a {
+    font-size: 1rem;
+}
+
+
+
+
+
+
