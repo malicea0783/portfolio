@@ -9,7 +9,7 @@ Made sure to have a responsive layout and links to my deployed projects.
 ### installation
 
 **Visit my page deployed via Github:**
-https://github.com/malicea0783/portfolio
+https://malicea0783.github.io/portfolio/
 
 **Clone my repo**
 https://github.com/malicea0783/portfolio.git

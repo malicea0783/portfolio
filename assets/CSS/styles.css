@@ -1,4 +1,4 @@
-* {
+html {
 	background-color: #d9dcd6;
 	box-sizing: border-box;
 }
@@ -95,7 +95,7 @@ hr {
 .container-first {
 	position: flex;
 	margin: auto;
-	width: 600px;
+	width: 50%;
 	flex-direction: column;
 	justify-content: space-around;
 }
