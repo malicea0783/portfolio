@@ -172,6 +172,26 @@ li {
 	background-color: #0d6d6d;
 	padding-top: 15px;
 }
+
+.line-break {
+  width: 100%;
+}
+
+.repo-ul {
+  display: block;
+  text-align: center;
+  list-style: none;
+}
+
+.repo-li {
+  margin: auto;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--black);
+}
+
 .contact-li {
 	margin: auto;
 	background-color: #0d6d6d;
