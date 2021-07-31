@@ -198,6 +198,10 @@ li {
   font-weight: 600;
   color: #000000;
 }
+.repo-li:hover {
+  color: #0d6d6d;
+  font-family: "Roboto Slab", serif;
+}
 
 .contact-li {
   margin: auto;
@@ -212,9 +216,11 @@ li {
   color: #3df318;
   font-family: "Roboto Slab", serif;
 }
+
 h4 {
   font-family: "Roboto Slab", serif;
 }
+
 .footer-p {
   font-family: "Open Sans", sans-serif;
 }
